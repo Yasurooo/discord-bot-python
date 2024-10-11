@@ -12,3 +12,37 @@ this bot is currently under development it may still have bug and incompleted fe
 - Bot token
 
 ## Tutorials
+   ```bash
+   git clone https://github.com/Yasurooo/Discord-Bot-Python.git
+   cd discord-bot
+   ```
+
+2. Install dependencies:
+   ```bash
+   pip install discord
+   ```
+
+3. Configure the bot:
+   - Open Folder `confg/`
+   - Fill in your bot token and other required fields
+
+4. Start the bot:
+   ```bash
+   python main.py
+   ```
+
+## Configuration
+
+Edit `config.json` to customize your bot:
+
+```json
+{
+  "token": "INPUT_UR_TOKEN",
+  "prefix": "INPUT_UR_PREFIX"
+}
+```
+
+## Commands
+
+### /restart
+### (prefix) ping
