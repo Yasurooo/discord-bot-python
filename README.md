@@ -38,7 +38,11 @@ Edit `config.json` to customize your bot:
 ```json
 {
   "token": "INPUT_UR_TOKEN",
-  "prefix": "INPUT_UR_PREFIX"
+  "prefix": "INPUT_UR_PREFIX",
+  "activity": {
+    "type": "playing", // READ THE STATUS.PY
+    "name": "Your Wife <3" // READ THE STATUS.PY
+  }
 }
 ```
 
