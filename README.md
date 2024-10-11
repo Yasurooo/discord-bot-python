@@ -1,4 +1,4 @@
-> **Disclaimer**
+q> **Disclaimer**
 this bot is currently under development it may still have bug and incompleted features.Use it at your own discretion and report any issues to help improve the project.
 
 # Features
@@ -46,3 +46,16 @@ Edit `config.json` to customize your bot:
 
 ### /restart
 ### (prefix) ping
+
+
+
+
+
+## Notes
+
+> u can edit the status bot in
+
+```bash
+config/
+status.py
+```
