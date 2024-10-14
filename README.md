@@ -23,7 +23,7 @@ this bot is currently under development it may still have bug and incompleted fe
    ```
 
 3. Configure the bot:
-   - Open Folder `confg/`
+   - Open Folder `config/`
    - Fill in your bot token and other required fields
 
 4. Start the bot:
